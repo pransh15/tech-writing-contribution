@@ -20,7 +20,7 @@ This repository contains a deliberately broken documentation file: `BROKEN_GUIDE
 
 1. Fork this repo
 2. Clone it to your local machine
-3. Create a new branch (e.g., `fix/broken-doc`)
+3. Create a new branch (e.g., `@yourUsername/fix/broken-doc`)
 4. Fix the issues in `BROKEN_GUIDE.md`
 5. Push your changes and open a pull request with a clear commit message
 
